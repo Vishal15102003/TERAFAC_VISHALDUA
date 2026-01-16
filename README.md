@@ -120,7 +120,7 @@ Test Accuracy: ≥91%
 
 Target: ≥91%
 
-Status: ✅ PASSED
+Status:  PASSED
 
  Deliverables
 
